@@ -1,0 +1,6 @@
+{
+  "name": "Diagnóstico Logístico D y D",
+  "description": "Entrevista de diagnóstico en planta para Rapi Tienda D y D con análisis de problemáticas y soluciones según la metodología logística de Ronald H. Ballou.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
